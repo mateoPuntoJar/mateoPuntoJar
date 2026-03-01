@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student of web application development. Java, PHP, SQL, HTML, CSS and JavaScript are the languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Junior Backend Developer. Java, PHP, SQL, HTML, CSS and JavaScript are the languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in web application development.**
 - 🌱 I’m currently learning ...
   - Java
